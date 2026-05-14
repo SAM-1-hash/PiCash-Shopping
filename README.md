@@ -1,12 +1,5 @@
 # PiCash-Shopping 
-# 🚀 PiCash Shopping - Complete Project Package
-
-## Welcome! 👋
-
-You now have a **complete, production-ready PiCash Shopping app** for the Pi Network ecosystem. This package includes the full React application, deployment guides, documentation, and advanced features.
-
----
-
+## Welcome!
 ## 📦 What's Included
 
 ### Core Files
